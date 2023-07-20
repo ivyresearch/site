@@ -1,6 +1,0 @@
-baseURL = '/'
-languageCode = 'en-us'
-title = 'Ivy Research'
-theme = 'ananke'
-enableInlineShortcodes = true
-
