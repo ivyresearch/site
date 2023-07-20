@@ -3,6 +3,7 @@ build
 public
 tmp
 themes/ananke
+themes/terminal
 bin/build
 bin/develop
 resources/_gen/
