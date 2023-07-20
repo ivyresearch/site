@@ -1,6 +1,6 @@
 baseURL = '/'
 languageCode = 'en-us'
-title = 'hugo-htmx-go-template'
+title = 'Ivy Research'
 theme = 'ananke'
 enableInlineShortcodes = true
 
