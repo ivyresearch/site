@@ -1,7 +1,7 @@
 ---
-title: "How to Enable SXG"
+title: "How to Setup SXG on Your Render Site"
 date: 2023-06-24T15:58:00-06:00
-draft: false
+draft: true
 ---
 
 Here are some steps to move a site deployed on Render.com to enable Signed HTTP Exchanges (SXG):
@@ -17,6 +17,7 @@ Here are some steps to move a site deployed on Render.com to enable Signed HTTP 
 - Test that you can fetch signed exchanges for your site by accessing .well-known/signed-exchange.json.
 - That covers the key steps! Let me know if you have any other questions. Migrating to SXG can improve performance and security for your Render-hosted site.
 
+<!-- 
 ## Let's dynamically fetch content from our API.
 
 What you're currently reading is typical Hugo content authored in Markdown. Below the break we see content loaded dynamically via HTMX from our API server.
@@ -43,11 +44,9 @@ Writing markdown content is great, but sometimes you want to add hypermedia cont
 
 See `func helloWorldForm` from `server.go` to see what's going on behind the scenes with this form.
 
-Here we are using a Hugo concept called an "inline shortcode". This allows us to change the base URL for our API server, depending on whether we're in development or production.
-
+Here we are using a Hugo concept called an "inline shortcode". This allows us to change the base URL for our API server, depending on whether we're in development or production. Make sure the api base URL is set!
 
 {{< htmx.inline >}}
-<!-- Make sure the api base URL is set -->
 <form hx-post="{{ .Site.Params.apiBaseUrl }}/hello_world_form">
   <label>Name</label>
   <input type="text" name="name">
@@ -69,4 +68,4 @@ Here we are using a Hugo concept called an "inline shortcode". This allows us to
 </div>
 {{< /htmx.inline >}}
 
-
+-->
