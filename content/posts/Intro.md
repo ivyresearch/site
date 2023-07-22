@@ -8,13 +8,13 @@ Ivy Research is a group of renegades, focusing on tech that **enables humans to 
 
 We also support projects that improve the onboarding experience to datastores like Ethereum via verifiable identities, bringing the power of blockchain to the next billion people. All of our work is open-source and MIT licensed, and we hope that people who derive profit from our work can contribute back. Specific projects incubated in-house or directly mentored are:
 
-- [NFC Stamps](https://stamps.ivyresearch.org): Proofs of signatures from NFC cards enable verifiable physical interactions. Originally conceived as [Zupass Stamps](https://pse-team.notion.site/Zupass-Stamps-Retrospective-v1-6bd7aa223f4d41cdb59b4ecf8aafb130).
+- [NFC Stamps](http://stamps.ivyresearch.org): Proofs of signatures from NFC cards enable verifiable physical interactions. Originally conceived as [Zupass Stamps](https://pse-team.notion.site/Zupass-Stamps-Retrospective-v1-6bd7aa223f4d41cdb59b4ecf8aafb130).
 - [ZK Email](https://blog.aayushg.com/posts/zkemail/): Proofs of email on-chain enable identity proofs and account abstraction wallets on chain
 - [heyanon](https://www.heyanon.wtf/): Verifiably post as an anonymous member of an on-chain or in-person group
 - [Nozee](https://www.nozee.xyz/): Proof of ownership of JSON Web Tokens from OpenAI, allowing anyone to prove anonymous membership of an email domain
 - [PLUME](https://blog.aayushg.com/posts/nullifier): Proofs of unique Ethereum identity enable anonymous proof of solvency, anonymous message board reputation + moderation, and zk voting
 - [WebAuthn research](https://github.com/semaphore-protocol/semaphore/tree/main/packages/heyauthn): Enabling everyone with a browser to generate signatures and Semaphore identities, via ZK proofs of Webauthn credentials
-- [Morpheus](https://morpheus.ivyresearch.org): Proofs of transformation of generated content proves provenance and origin, including for AI
+- [Morpheus](http://morpheus.ivyresearch.org): Proofs of transformation of generated content proves provenance and origin, including for AI
 
 We will release blog post for all of these projects in August 2023. If you're excited about this future, email [team@ivyresearch.org](mailto:team@ivyresearch.org) to get in touch. We give grants for projects or even small contributions like bugfixes or design critiques (all of our repositories and issues are public!) -- we are open to anyone making these contributions. We are especially excited to hear from traditionally underrepresented groups to ensure that everyone is included in the future of verifiable interactions!
 
