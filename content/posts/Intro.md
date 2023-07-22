@@ -14,7 +14,7 @@ We support projects that provide more privacy and intimacy in our internet lives
 - [Nozee](https://www.nozee.xyz/): Proof of ownership of JSON Web Tokens from OpenAI, allowing anyone to prove anonymous membership of an email domain
 - [PLUME](https://blog.aayushg.com/posts/nullifier): Proofs of unique Ethereum identity enable anonymous proof of solvency, anonymous message board reputation + moderation, and zk voting
 - [WebAuthn research](https://github.com/semaphore-protocol/semaphore/tree/main/packages/heyauthn): Enabling everyone with a browser to generate signatures and Semaphore identities, via ZK proofs of Webauthn credentials
-- [Morpheus](https://morpheus.ivyresearch.org): Proofs of transformation of generated content proves provenance and origin, including for AI
+- [Morpheus](http://morpheus.ivyresearch.org): Proofs of transformation of generated content proves provenance and origin, including for AI
 
 We will release full blog posts for all of these projects in August 2023. If you're excited about this future, email [team@ivyresearch.org](mailto:team@ivyresearch.org) to get in touch. We can give grants for full projects or even small contributions like bug fixes or design critiques, as all of our repositories and issues are public. We are especially excited to hear from traditionally underrepresented groups to ensure that everyone is included in the future of verifiable interactions.
 
