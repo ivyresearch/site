@@ -8,7 +8,7 @@ Ivy Research is a group of renegades, focusing on tech that **enables humans to 
 
 We also support projects that improve the onboarding experience to datastores like Ethereum via verifiable identities, bringing the power of blockchain to the next billion people. All of our work is open-source and MIT licensed, and we hope that people who derive profit from our work can contribute back. Specific projects incubated in-house or directly mentored are:
 
-- [ZK Cards](https://stamps.ivyresearch.org): Proofs of signatures from NFC cards enable verifiable physical interactions. Originally conceived as [Zupass Stamps](https://pse-team.notion.site/Zupass-Stamps-Retrospective-v1-6bd7aa223f4d41cdb59b4ecf8aafb130).
+- [NFC Stamps](https://stamps.ivyresearch.org): Proofs of signatures from NFC cards enable verifiable physical interactions. Originally conceived as [Zupass Stamps](https://pse-team.notion.site/Zupass-Stamps-Retrospective-v1-6bd7aa223f4d41cdb59b4ecf8aafb130).
 - [ZK Email](https://blog.aayushg.com/posts/zkemail/): Proofs of email on-chain enable identity proofs and account abstraction wallets on chain
 - [heyanon](https://www.heyanon.wtf/): Verifiably post as an anonymous member of an on-chain or in-person group
 - [Nozee](https://www.nozee.xyz/): Proof of ownership of JSON Web Tokens from OpenAI, allowing anyone to prove anonymous membership of an email domain
