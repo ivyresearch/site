@@ -92,7 +92,7 @@ paginate = 5
       [[languages.en.menu.main]]
         identifier = "showcase"
         name = "Showcase"
-        url = "/showcase"
+        url = "/posts/intro"
 
 # [module]
   # In case you would like to make changes to the theme and keep it locally in you repository,
