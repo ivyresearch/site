@@ -65,7 +65,7 @@ paginate = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Ivy Research"
+    title = "Studio Ivy"
     subtitle = "Interfacing verfiably."
     owner = ""
     keywords = ""
@@ -81,7 +81,7 @@ paginate = 5
     words = "words"
 
     [languages.en.params.logo]
-      logoText = "Ivy Research"
+      logoText = "Studio Ivy"
       logoHomeLink = "/"
 
     [languages.en.menu]
