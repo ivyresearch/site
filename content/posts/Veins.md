@@ -14,4 +14,4 @@ Let us illustrate the concrete overlap with our research: when all of your own d
 
 The Verifiable Interaction Institute focuses on tech that **enables humans to interact verifiably**. If you're excited to contribute to this mission, we would love to hear from you. Reach out to us -- our Twitter, Discord, and email is open to anyone.
 
-Ideas from discussions with Justin, Althea, Rachel, IYK, and Richard.
+Ideas from discussions with Max, Justin, Althea, Rachel, IYK, and Richard.
