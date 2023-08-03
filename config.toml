@@ -65,7 +65,7 @@ paginate = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Studio Ivy"
+    title = "VII: Verifiable Interaction Institute"
     subtitle = "Interacting verfiably."
     owner = ""
     keywords = ""
@@ -81,7 +81,7 @@ paginate = 5
     words = "words"
 
     [languages.en.params.logo]
-      logoText = "Studio Ivy"
+      logoText = "VII: Verifiable Interaction Institute"
       logoHomeLink = "/"
 
     [languages.en.menu]

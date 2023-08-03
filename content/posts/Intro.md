@@ -1,10 +1,10 @@
 ---
-title: "Introducing Studio Ivy: A Haven for Research and Products"
+title: "Introducing VII: A Haven for Research and Products"
 date: 2023-07-19T15:58:00-06:00
 draft: false
 ---
 
-Studio Ivy focuses on tech that **enables humans to interact verifiably**.
+The Verifiable Interaction Institute focuses on tech that **enables humans to interact verifiably**.
 
 We support projects that provide more privacy and intimacy in our internet lives, either by securely storing and selectively revealing personal data. We also support projects that improve the onboarding experience to other verifiable technologies like Ethereum. Specific projects incubated in-house or directly mentored are:
 
@@ -20,8 +20,7 @@ We will release full blog posts for all of these projects in August 2023. If you
 
 We generally support and want to hear from projects that provide more privacy in our internet lives, either by securely generating or selectively revealing personal cryptographic data. While privacy alone is alienating, we think that the same principles in social interaction can increase intimacy in our interactions, since this can lead people to express their own humanity more fully.
 
-We support projects that improve the onboarding experience to datastores like Ethereum via verifiable identities, bringing the power of cryptography to the next billion people. All of our work is deeply entwined with in-house cutting edge research, and our code is open-source and MIT licensed. We hope that people who derive profit from our work can contribute back.
-
+We support projects that improve the onboarding experience to datastores like Ethereum via verifiable identities, allowing advanced cryptography to meaningfully impact real people. All of our work is deeply entwined with in-house cutting edge research, and our code is open-source and MIT licensed. We hope that people who derive profit from our work can contribute back. If you’re excited by advanced cryptography, digital identity where you control your own data, or personable social design, please reach out by Discord: we are especially excited to hear from traditionally underrepresented groups to ensure that everyone is included in the future of digital expression.  
 
 <!-- ## Goodbye world is a `templ` template example
 
