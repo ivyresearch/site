@@ -65,7 +65,7 @@ paginate = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "VII: Verifiable Interaction Institute"
+    title = "Provenant Research"
     subtitle = "Interacting verfiably."
     owner = ""
     keywords = ""
@@ -81,7 +81,7 @@ paginate = 5
     words = "words"
 
     [languages.en.params.logo]
-      logoText = "VII: Verifiable Interaction Institute"
+      logoText = "Provenant Research"
       logoHomeLink = "/"
 
     [languages.en.menu]

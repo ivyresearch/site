@@ -1,5 +1,5 @@
 ---
-title: "Introducing VII: A Haven for Research and Products"
+title: "Introducing Provenant Research: A Haven for Research and Products"
 date: 2023-07-19T15:58:00-06:00
 draft: false
 ---
